@@ -1,0 +1,11 @@
+[General]
+SplitterSizes=283,339
+
+[MainWindow]
+2 screens: Height=1044
+2 screens: Width=636
+2 screens: XPosition=2695
+2 screens: YPosition=16
+DisplayPort-1 DisplayPort-2=DisplayPort-1
+State=AAAA/wAAAAD9AAAAAAAAAnwAAAPkAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
